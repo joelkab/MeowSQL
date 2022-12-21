@@ -5,8 +5,7 @@ user to enter their username and password as command line arguments, and verifie
 the program displays a header for the database and allows the user to add, delete, and search for data through a user-friendly interface.
 
 
-<img src="https://user-images.githubusercontent.com/46387248/208797170-c1138a2b-b4d6-40e3-be20-e4712f24d1ed.png" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/46387248/190247856-24550abb-6895-4bae-8587-12db396efd03.png" width="200" height="400" /> 
-
+<img src="https://user-images.githubusercontent.com/46387248/208797170-c1138a2b-b4d6-40e3-be20-e4712f24d1ed.png" width="400" height="400" /> 
 ## Features
 - Stores and retrieves data in CSV files
 - Includes a secure login system that verifies user credentials
