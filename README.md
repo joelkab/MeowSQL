@@ -6,6 +6,7 @@ the program displays a header for the database and allows the user to add, delet
 
 
 <img src="https://user-images.githubusercontent.com/46387248/208797170-c1138a2b-b4d6-40e3-be20-e4712f24d1ed.png" width="800" height="400" /> 
+
 ## Features
 - Stores and retrieves data in CSV files
 - Includes a secure login system that verifies user credentials
