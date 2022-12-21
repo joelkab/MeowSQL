@@ -246,7 +246,6 @@ vector<string> getInput()
 string validateArguments(vector<string> args)
 {
     string input = " ";
-    string args1 = args[1];
     //
     string filename = " ";
     string input2 = " ";
@@ -406,11 +405,6 @@ void executeCommand(vector<string> args)
         string filename = "tables.csv";
         DeleteLine("tables.csv", args);
 
-        // DeleteLine(filename, deleteline, args);
-
-        // delete the file name inside tables table
-
-        // delete the file your tring the delete
     }
 }
 // 2.1 add commandLoop() function
@@ -453,7 +447,7 @@ bool is_file_exist(string fileName)
     myfile.open(fileName + TABLE_FILETYPE);
     if (myfile)
     {
-        cout << "file already exists\n";
+        
         return true;
     }
     else
