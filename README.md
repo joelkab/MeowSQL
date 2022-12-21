@@ -19,8 +19,8 @@ the program displays a header for the database and allows the user to add, delet
 
 
 
-## Packages 
--  [Kingfisher](https://github.com/joelkab)
+## Files needed 
+- [tables.csv](https://github.com/joelkab/MeowSQL/files/10273616/tables.csv)
 
 ## Contributing
 
